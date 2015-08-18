@@ -1,19 +1,14 @@
 <?php
 /**
- * testClass
+ * TestClass
  */
 class TestClass {
-
     const task = 'task';
-
-    private $_Something = 'test'
-
+    private $_Something = 'test';
     /**
      * @test
      */
     public function IsTest($index){
-
         return null;
     }
-
 }
