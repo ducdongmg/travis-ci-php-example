@@ -3,6 +3,7 @@
 /**
  * Test Scrutinizer tool
  */
+ const chek;
 
 $uri = urldecode(
     'abcde
