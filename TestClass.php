@@ -9,6 +9,7 @@ class TestClass {
      * @test
      */
     public function IsTest($index){
-        return null;
+		$this->_Something = 'fix bug';
+        return $index;
     }
 }

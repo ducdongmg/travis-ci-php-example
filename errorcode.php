@@ -2,6 +2,6 @@
 /**
  * Test Scrutinizer tool
  */
-function a($b){
-	return $c;
+function a($bVar){
+	return $cVar;
 }
