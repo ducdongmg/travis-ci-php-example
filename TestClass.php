@@ -2,9 +2,9 @@
 /**
  * testClass
  */
-class testClass {
+class TestClass {
 
-    const task                 = 'task';
+    const task = 'task';
 
     private $_Something = 'test'
 
