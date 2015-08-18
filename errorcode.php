@@ -3,10 +3,10 @@
 /**
  * Test Scrutinizer tool
  */
- const chek;
+ const _chek;
 
 $uri = urldecode(
-    'abcde
+    'abcde'
 );
 
 return $aaa;
